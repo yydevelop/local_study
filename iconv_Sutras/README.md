@@ -1,4 +1,4 @@
-## ソースファイル準備
+## Souce file get
 ```
 which iconv
 /usr/bin/iconv
