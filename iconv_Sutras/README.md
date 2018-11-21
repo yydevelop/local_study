@@ -19,3 +19,8 @@ gconv.c             gconv_close.c    gconv_simple.c  iconv_open.c     skeleton.c
 gconv.h             gconv_conf.c     gconv_trans.c   iconv_prog.c     strtab.c
 gconv_builtin.c     gconv_db.c       iconv.c         iconv_prog.h     tst-iconv1.c
 ```(
+
+
+rpm -qfi `which iconv`
+wget http://vault.centos.org/7.5.1804/os/Source/SPackages/glibc-2.17-222.el7.src.rpm
+
